@@ -3,16 +3,16 @@
 Implemented a program in x86-64 assembly language to reverse an array of integers and print both the original and reversed arrays using the printf function as part of Ethan Welborn's class.
 
 💻 Technical Details:
-
 Utilized Microsoft Macro Assembler (MASM) syntax.
 Developed a ReverseArray procedure to efficiently reverse the order of elements in the array.
 Employed registers (rsi, rdi, r8, r14, r15, etc.) for optimized memory manipulation.
 Integrated standard C libraries (ucrt.lib, legacy_stdio_definitions.lib) for linking.
-🔍 Key Achievements:
 
+🔍 Key Achievements:
 Successfully reversed the array in-place, demonstrating proficiency in low-level programming.
 Implemented a loop to print both the original and reversed arrays using the printf function.
 Ensured proper program termination by calling the ExitProcess function with a return code of 0.
+
 🎓 Skills Demonstrated:
 x86-64 Assembly, Microsoft Macro Assembler (MASM), Memory Manipulation, In-Place Array Reversal, Low-Level Programming, C Runtime Library Integration.
 
